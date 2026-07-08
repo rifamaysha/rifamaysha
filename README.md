@@ -11,15 +11,14 @@
 
 <br/>
 
-Data Science undergraduate at Telkom University. Most of my time goes into TA-ing three CS courses — Object-Oriented Programming (Java, NetBeans), Operating Systems (Xinu kernel), and Discrete Mathematics — and running secretariat for the Data Science Student Association as General Secretary. Outside of teaching I work on applied ML; earlier this year my team took first place in the Data Mining division of ADIKARA 2025 with a calibrated ensemble framework for credit-risk detection on imbalanced P2P lending data.
+Data Science undergraduate at Telkom University. Most of my time goes into TA-ing three CS courses, Object-Oriented Programming (Java, NetBeans), Operating Systems (Xinu kernel), and Discrete Mathematics, and running secretariat for the Data Science Student Association as General Secretary. Outside of teaching I work on applied ML; earlier this year my team took first place in the Data Mining division of ADIKARA 2025 with a calibrated ensemble framework for credit-risk detection on imbalanced P2P lending data.
 
 Currently open to **remote internships** in data or software engineering.
-
 <br/>
 
 ### Stack
 
-Python, Java, Go, and C++ day-to-day. Comfortable across storage systems — SQL, MongoDB, Redis, Neo4J, ArangoDB, and SingleStore. Modeling in scikit-learn with Pandas and NumPy. Xinu OS from teaching operating systems. Notebooks in Jupyter, code in VS Code and NetBeans.
+Python, Java, Go, and C++ day-to-day. Comfortable across storage systems : SQL, MongoDB, Redis, Neo4J, ArangoDB, and SingleStore. Modeling in scikit-learn with Pandas and NumPy. Xinu OS from teaching operating systems. Notebooks in Jupyter, code in VS Code and NetBeans.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,go,cpp,mysql,mongodb,redis,sklearn,vscode,git&perline=10&theme=light" />
