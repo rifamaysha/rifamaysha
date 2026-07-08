@@ -1,94 +1,47 @@
-<!-- Banner Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rifa%20Mayshakori&fontSize=52&fontColor=fff&fontAlignY=36&desc=Data%20Science%20%40%20Telkom%20University&descSize=18&descAlignY=58&animation=fadeIn" />
+<!-- Header banner: soft light blue → sky blue gradient -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9e4ff,100:6bb6ff&height=160&section=header&text=Rifa%20Mayshakori&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Data%20Science%20—%20Telkom%20University&descSize=16&descAlignY=72" />
+</p>
 
-<div align="center">
-
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=650&lines=Data+Science+undergrad+%40+Telkom+University;Teaching+Assistant+for+3+CS+courses;1st+Place+Data+Mining+%E2%80%94+ADIKARA+2025;Open+for+remote+internships" />
-
-</div>
-
-<br/>
-
-## 👋 Halo
-
-Data Science undergrad at **Telkom University**. Ngajar praktikum buat 3 mata kuliah CS (OOP, Operating Systems, Discrete Math), sekretariat di HIMADS, dan lagi eksplor ensemble learning + credit risk modeling.
-
-- 🎓 **B.Sc. Data Science** — Telkom University (2023 – present)
-- 🏆 **1st Place — Data Mining Division**, ADIKARA 2025 (PRODIGI Lab, Telkom U)
-- 👩‍🏫 Teaching Assistant: **OOP** (Java) · **Operating Systems** (Xinu) · **Discrete Math**
-- 🧭 **General Secretary** — Data Science Student Association (HIMADS)
-- 🔭 Currently working on: capstone project, applied ML research
-- 💼 **Open for remote internships** in data / software engineering
-- 📫 Reach me: [archivenyarifa@gmail.com](mailto:archivenyarifa@gmail.com) · [LinkedIn](https://linkedin.com/in/rifamayshakori)
+<p align="center">
+  <a href="mailto:archivenyarifa@gmail.com"><img src="https://img.shields.io/badge/Email-6BB6FF?style=flat&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/rifamayshakori"><img src="https://img.shields.io/badge/LinkedIn-4A90E2?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
 
 <br/>
 
-## 🧰 Toolkit
+Data Science undergraduate at Telkom University. Most of my time goes into TA-ing three CS courses — Object-Oriented Programming (Java, NetBeans), Operating Systems (Xinu kernel), and Discrete Mathematics — and running secretariat for the Data Science Student Association as General Secretary. Outside of teaching I work on applied ML; earlier this year my team took first place in the Data Mining division of ADIKARA 2025 with a calibrated ensemble framework for credit-risk detection on imbalanced P2P lending data.
 
-<div align="center">
-
-**Languages**  
-<img src="https://skillicons.dev/icons?i=python,java,go,cpp&perline=10" />
-
-**Databases**  
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&perline=10" />  
-<sub>Neo4J · ArangoDB · SingleStore</sub>
-
-**Data & ML**  
-<img src="https://skillicons.dev/icons?i=sklearn&perline=10" />  
-<sub>Pandas · NumPy · scikit-learn</sub>
-
-**Tools**  
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux&perline=10" />  
-<sub>Jupyter · NetBeans · Xinu OS · Canva</sub>
-
-</div>
+Currently open to **remote internships** in data or software engineering.
 
 <br/>
 
-## 🏆 Featured Project
+### Stack
 
-**Calibrated Ensemble Learning for Imbalanced Credit Risk Detection**  
-_ADIKARA 2025 · 1st Place, Data Mining Division · PRODIGI Lab, Telkom University_
+Python, Java, Go, and C++ day-to-day. Comfortable across storage systems — SQL, MongoDB, Redis, Neo4J, ArangoDB, and SingleStore. Modeling in scikit-learn with Pandas and NumPy. Xinu OS from teaching operating systems. Notebooks in Jupyter, code in VS Code and NetBeans.
 
-Ensemble framework yang dikalibrasi untuk deteksi credit risk pada dataset P2P lending yang imbalanced. Fokus di penanganan class imbalance sambil menjaga probability calibration untuk decision-making downstream.
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rifamaysha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifamaysha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifamaysha&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,go,cpp,mysql,mongodb,redis,sklearn,vscode,git&perline=10&theme=light" />
+</p>
 
 <br/>
 
-## 📈 Contribution Activity
+### GitHub
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifamaysha&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-</div>
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=rifamaysha&show_icons=true&hide_border=true&title_color=4A90E2&icon_color=87CEEB&text_color=24292f&bg_color=ffffff&include_all_commits=true&count_private=true" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifamaysha&layout=compact&hide_border=true&title_color=4A90E2&text_color=24292f&bg_color=ffffff&langs_count=8" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rifamaysha&hide_border=true&background=ffffff&stroke=87CEEB&ring=4A90E2&fire=6BB6FF&currStreakLabel=4A90E2&sideLabels=4A90E2&currStreakNum=24292f&sideNums=24292f&dates=6c757d" />
+</p>
 
-## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifamaysha&bg_color=ffffff&color=4A90E2&line=87CEEB&point=6BB6FF&area=true&hide_border=true" />
+</p>
 
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rifamaysha/rifamaysha/output/snake.svg" />
-</div>
-
-<br/>
-
-<!-- Profile views counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rifamaysha&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" />
-</div>
-
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rifamaysha/rifamaysha/output/snake.svg" />
+</p>
